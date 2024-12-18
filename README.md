@@ -1,6 +1,5 @@
 # Simple Freelancer Web Interface
 
-## Descripción
 Pequeña interfaz web con una estructura diseñada para una supuesta página personal como freelancer. La web es completamente responsive.
 
 ## Tecnologías utilizadas
