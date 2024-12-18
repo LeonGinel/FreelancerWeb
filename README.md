@@ -11,4 +11,4 @@ Pequeña interfaz web con una estructura diseñada para una supuesta página per
 https://leonginelfreelancer.netlify.app
 
 ## Capturas de Pantalla
-![Captura de la aplicación](imag/FreelancerWeb.jpg)
+![Captura de la aplicación](img/FreelancerWeb.jpg)
